@@ -1,0 +1,47 @@
+body {
+  background-color: #d106b4;
+}
+
+h1 {
+  margin-left: 40%;
+  color: #f3d700;
+  font-weight: bold;
+}
+
+section {
+  margin-left: 20%;
+}
+
+div {
+  display: inline-block;
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+  margin: -1.5px;
+}
+
+.vermelha {
+  background-color: red;
+}
+
+.azul {
+  background-color: blue;
+}
+
+.verde {
+  background-color: green;
+}
+.amarelo {
+  background-color: yellow;
+}
+#canto {
+  border: solid 2px;
+}
+#canto:hover {
+  background-color: #80347c;
+}
+
+p {
+  margin-left: 50%;
+  font-weight: bold;
+}
