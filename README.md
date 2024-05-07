@@ -6,7 +6,7 @@ Atividade proposta pelo Descodificadas para tratrabalhar com seletores, classes 
 
 ![atividade](https://github.com/ThaisDavilla/descodificadas-seletores-classes-id/assets/78877580/bffa5767-5ecd-4a7b-a755-22109943f5a4)
 
-### Este foi foi o resultado! 
+### Este foi o resultado! 
 
 
 
